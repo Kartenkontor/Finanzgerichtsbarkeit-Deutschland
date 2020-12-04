@@ -1,4 +1,4 @@
-# Finanzgerichtsbarkeit-Deutschland-nach-PLZ als Shapedatei und Liste
+# Finanzgerichtsbezirke-Deutschland
 Postleitzahlkreise in Verbindung mit den jeweils zuständigen Finanzgerichten in Deutschland als Punktvektoren im ETRS UTM 32 und als Tabelle
 
 
